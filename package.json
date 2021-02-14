@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/horacekalex/git-test/issues"
   },
-  "homepage": "https://github.com/horacekalex/git-test#readme"
+  "homepage": "https://github.com/horacekalex/git-test#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
 }
