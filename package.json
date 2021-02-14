@@ -1,0 +1,22 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "git test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Write tests!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horacekalex/git-test.git"
+  },
+  "keywords": [
+    "alexandra"
+  ],
+  "author": "Skoulas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horacekalex/git-test/issues"
+  },
+  "homepage": "https://github.com/horacekalex/git-test#readme"
+}
